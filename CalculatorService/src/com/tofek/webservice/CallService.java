@@ -5,6 +5,8 @@ package com.tofek.webservice;
 
 /**
  * @author tofek.khan
+ * Specification : JAX-RPC
+ * Implementation : Axis implementation.
  *
  */
 public class CallService {
